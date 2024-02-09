@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Bold-Italic-Trial.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Bold-Trial.otf') format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Light-Italic-Trial.otf') format('opentype');
+  font-weight: lighter;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Light-Trial.otf') format('opentype');
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Medium-Italic-Trial.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Medium-Trial.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Regular-Italic-Trial.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Regular-Trial.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Thin-Italic-Trial.otf') format('opentype');
+  font-weight: lighter;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Alpina';
+  src: url('fonts/GT-Alpina-Standard-Thin-Trial.otf') format('opentype');
+  font-weight: lighter;
+}

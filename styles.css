@@ -1,0 +1,73 @@
+:root {
+  --background-color: #8C0303;
+  --font-color: white;
+  --hover-font-color: #FFFF99;
+}
+
+body {
+  font-family: "GT Alpina";
+  color: var(--font-color);  
+  background-color: var(--background-color);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  margin-top: -150px;
+  margin-left: -300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.logo {
+  padding: 10px 140px;
+  background: none;
+  border: 3px solid var(--font-color);
+  direction: flex;
+}
+
+.logo h1 {
+  font-size: 100px;
+  font-style: normal;
+  padding: 0;
+  margin: -10px 0px;
+}
+
+.logo p {
+  font-size: 15px;
+  letter-spacing: 0.06em;
+  padding: 0;
+  margin: 0;
+}
+
+.info {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin: 0px 15px;
+}
+
+.info a {
+  white-space: pre-wrap;
+  text-align: center;
+  cursor: pointer;
+  color: var(--font-color);
+  text-decoration: none;
+  line-height: 25px;
+}
+
+.info a:hover {
+  color: var(--hover-font-color);
+}
